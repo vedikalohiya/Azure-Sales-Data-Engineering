@@ -34,4 +34,4 @@ Analytics-ready dataset
 🎯 Outcome
 Processed structured dataset
 Improved data quality
-Ready for visualization & insights<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe7797c3-7245-4a2c-912f-e3fa542ea432" />
+Ready for visualization & insights
